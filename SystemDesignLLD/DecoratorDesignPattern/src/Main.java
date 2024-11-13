@@ -1,4 +1,11 @@
-
+/*
+* The Decorator Design Pattern is a structural design pattern used in software development. It allows behavior to be added to individual objects, dynamically, without 
+* affecting the behavior of other objects from the same class. This pattern is useful when you need to add functionality to objects in a flexible and reusable way.
+*
+* This pattern is vital for enhancing functionality while adhering to the open-closed principle. 
+* To gain insights into design patterns and their application in system architecture, consider enrolling in the System Design Course, which covers various patterns 
+* and their implications for system design.
+*/
 abstract class BasePizza {
 
 	public abstract int cost();
